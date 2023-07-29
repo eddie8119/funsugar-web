@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@fortawesome/vue-fontawesome": "^2.0.8",
+    "build": "^0.1.4",
     "core-js": "^3.25.3",
+    "generate": "^0.14.0",
     "nuxt": "^2.15.8",
     "sass-loader": "^10.2.0",
     "v-video-embed": "^1.0.8",
