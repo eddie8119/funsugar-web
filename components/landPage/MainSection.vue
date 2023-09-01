@@ -11,9 +11,6 @@
 				居家空間的捕捉者 <br/>
 				觀察空間的質感 塑造空間的情感
 			</p>
-			<!-- Main text end -->
-
-			<!-- Social links start -->
 			<div class="flex mt-3 gap-8">
 				<a href="#">
 					<i class="fa-brands fa-instagram socialIcon"></i>
@@ -31,26 +28,17 @@
 					<i class="fa-brands fa-pinterest socialIcon"></i>
 				</a>
 			</div>
-			<!-- Social links end -->
 		</div>
-
 		<!-- Photographer image start -->
 		<div class="absolute bottom-0 right-0 overflow-hidden h-2/5 sm:h-1/2 md:h-3/5 lg:h-4/6 -z-50">
 			<img src="@/assets/image.jpg" alt="img" class="h-full">
 		</div>
-
-		<!-- Photographer image end -->
-
-		<!-- "More" button start -->
 		<div class="w-full h-20 flex justify-start md:justify-center items-center">
 			<a href="#about-section">
 				<i class="fa-solid fa-arrow-down transition text-stone-100 text-xl bg-yellow-400 rounded-full shadow p-4 hover:-translate-y-2 hover:shadow-xl"></i>
 			</a>
 		</div>
-		<!-- "More" button end -->
-
 	</section>
-	<!-- Main section end -->
 </template>
 
 <script>

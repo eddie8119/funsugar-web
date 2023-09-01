@@ -5,7 +5,7 @@
       <h1 class="uppercase text-5xl mb-4 font-semibold ">
         常見問題
       </h1>
-      <div class="grid grid-cols-1 md:grid-cols-2 w-full">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-y-[75px] w-full">
         <div class="hidden md:flex justify-center items-center">
           <img src="@/assets/camera.png" alt="">
         </div>
@@ -48,7 +48,27 @@
             </p>
           </div>
         </div>
-        <div class="bg-neutral-200 h-40 w-40  rounded-full absolute top-20 left-0 mt-25 -z-20"></div>
+        <div class="grid grid-cols-1 w-full items-start">
+          <div>
+            <h1 class="font-bold">照片精修處理</h1>
+            </br>
+            <p>
+              1.校正空間的線條垂直水平</br>
+              </br>
+              2.明亮修正</br>
+              </br>
+              3.修除照片中的雜物(如修除電線，減少阿雜，而這些地方就是構成精緻的細節)
+            </p>
+          </div>
+          <div>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 gap-y-2">
+            <img src="@/assets/qa/DSC030252.jpg" alt="">
+            <img src="@/assets/qa/DSC030251.jpg" alt="">
+            <img src="@/assets/qa/DSC030253.jpg" alt="">
+        </div>
+        
       </div>
     </div>
   </div>

@@ -76,16 +76,15 @@
       <!-- Circle start -->
       <div class="bg-yellow-400 h-64 w-64 rounded-full absolute top-0 -right-20 mt-16 -z-20"></div>
     </section>
-    <section id="positive-energy" class="px-12 lg:px-32 py-16 relative overflow-hidden">
+    <section id="positive-energy" class="px-12 lg:px-32 pb-16 relative overflow-hidden">
       <div class="mt-10 flex gap-8 flex-col md:flex-row">
         <h1 class="uppercase text-5xl mb-4 font-semibold ">
           更多居家正能量
         </h1>
         <p class="xl:w-1/2 text-stone-500 mb-8">
-          當次的室內攝影委託費，收到費用即捐款 1 成至"家扶扶幼捐款項目"。<br />
+          室內攝影委託費，收到費用即捐款 1 成至"家扶扶幼捐款項目"。<br />
           委託者個人平時的捐款也可兌換成攝影服務張數。
-          我們嘗試用各種形式，詮釋家的正能量概念，
-          讓新居落成的美好，也間接讓未知的家庭受益。
+          用各種形式，帶給居家的正能量。
           <br />
         </p>
       </div>
@@ -101,7 +100,7 @@
               </h1>
             </a>
             <p class="capitalize text-stone-500">
-              每次委託費 1 成捐款至<a href="https://donate.ccf.org.tw/19/shopcart-step1/210">"家扶扶幼捐款項目"</a>，收到委託人的匯款當下即捐出，並截圖給委託人看，創造社會善循環
+              每次委託費 1 成捐款至<a href="https://donate.ccf.org.tw/19/shopcart-step1/210">"家扶扶幼捐款項目"</a>，收到委託人的匯款當下即捐出，並截圖給委託人看，創造善流動
             </p>          
           </div>
         </div>
@@ -110,11 +109,11 @@
             <a href="https://www.ccf.org.tw/support/project" target="_blank">
               <h1
                 class="uppercase text-2xl font-semibold hover:text-yellow-400 transition delay-80 duration-150 ease-in-out">
-                家扶專案捐款兌換攝影
+                家扶捐款兌換攝影
               </h1>
             </a>
-            <p class="capitalize text-stone-500">
-              委託設計師在奇數月份捐款家扶，每1500元捐款可兌換一張室內攝影<br />
+            <p class="capitalize text-stone-500">              
+              委託設計師在奇數月份捐款弘道家扶基金會不限專案，每1200元捐款可兌換一張室內攝影<br />
               (須提供佐證為捐款者本人)
             </p>
           </div>
@@ -132,7 +131,7 @@
               </h1>
             </a>
             <p class="capitalize text-stone-500">
-              委託設計師在偶數月份捐款弘道老人福利基金會不限專案，每1500元捐款可兌換一張室內攝影<br />
+              委託設計師在偶數月份捐款弘道老人福利基金會不限專案，每1200元捐款可兌換一張室內攝影<br />
               (須提供佐證為捐款者本人)
             </p>
           </div>

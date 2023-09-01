@@ -25,23 +25,25 @@
 					<a href="https://www.behance.net/WANG81195321" target="_blank" role="menuitem">
 						<p class="mx-4">作品</p>
 					</a>
+					<a href="https://pse.is/4r2l4e" target="_blank" role="menuitem">
+						<p class="mx-4">新居婚紗</p>
+					</a>
 					<nuxt-link to="/term-of-service" role="menuitem">
 						<p class="mx-4">服務問答</p>
 					</nuxt-link>
 					<!-- <nuxt-link to="/familyRecording" role="menuitem">
-						<p class="mx-4">免費新居報名</p>
+						<p class="mx-4">新居婚紗</p>
 					</nuxt-link> -->
 				</template>
 				<a class="btn" role="menuitem" href="https://mail.google.com/mail/?view=cm&fs=1&to=funsugar8119@gmail.com&body=詢問方生糖:"
 					target="_blank">
-					攝影委託
+					攝影預約
 				</a>
-				<a href="https://www.youtube.com/playlist?list=PLq6qa78AJYu1EK2Ko56KHSnGIjJwmlg4U" target="_blank" role="menuitem">
-					<p class="mx-4">引流獲客</p>
-				</a>
-				<!-- <button class="btn" role="menuitem" @click="showModal = true">
-					商務 委託
-				</button> -->
+				<!-- <template v-if="route === '/'">
+					<a href="https://www.youtube.com/playlist?list=PLq6qa78AJYu1EK2Ko56KHSnGIjJwmlg4U" target="_blank" role="menuitem">
+						<p class="mx-4">引流獲客</p>
+					</a>
+				</template> -->
 			</div>
 			<transition name="fade" mode="out-in">
 				<div class="modal-overlay absolute w-[120vw] h-[120vh] z-5" v-if="showModal" @click="showModal = false"></div>
